@@ -7,6 +7,10 @@ Amazing React.js dashboard with beautiful UI built with help of Syncfusion and l
 - Syncfusion
 - Context API
 - Responsive Design
+- 
+## Demo
+
+https://dashboard-six-drab.vercel.app/
 
 ## App Preview
 
@@ -26,6 +30,3 @@ Amazing React.js dashboard with beautiful UI built with help of Syncfusion and l
 
 ![](src//images/d8.png)
 
-## Demo
-
-https://dashboard-six-drab.vercel.app/
