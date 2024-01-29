@@ -4,10 +4,10 @@ Amazing React.js dashboard with beautiful UI built with help of Syncfusion and l
 
 ## Learning Objectives
 
-- Syncfusion
-- Context API
-- Responsive Design
-- 
+- Syncfusion for complex components
+- React Context API
+- Tailwind CSS
+
 ## Demo
 
 https://dashboard-six-drab.vercel.app/
